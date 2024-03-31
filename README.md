@@ -14,7 +14,6 @@ Before we can delve into information retrieval, we need to clean the data. This 
 
 ### Term Frequency (TF)
 We start by building a vocabulary of every unique word found in your 'SECTION_TEXT', assigning each word a unique ID.  Term frequency (TF) tells us how often a specific word appears within a document (see example image below - vocabulary with unique ID and term frequency).
-![image](https://github.com/zunaira-ahmd/Search-Engine-using-MapReduce/assets/133143848/036c90de-af92-48e4-b337-70fc719e8588)
 ![image](https://github.com/zunaira-ahmd/Search-Engine-using-MapReduce/assets/133143848/3da5cd06-0ab9-4d9a-95c4-1a7a949ec996)
 
 
