@@ -11,4 +11,13 @@ Our aim is to create a simplified search engine. Search engines are remarkable e
 
 # Information Retrieval for Text:
 First off, the data is cleaned by performing pre-processing steps which include removing of stopwords, symbols, extra whitespaces, puncuation marks etc. After the cleaning of data, bsic steps are followed to retrieve maximum information and to sort out the vast data.
-A vocabulary is created consisting of every word in the 'SECTION_TEXT' with a unique ID for each word. To compute TF - term frequency 
+
+#### Term Frequency (TF):
+A vocabulary is created consisting of every word in the 'SECTION_TEXT' with a unique ID for each word. the term TF - term frequency, means how many times a specific word appears in a document, e.g. as shown in the image below.
+
+### Inverse Document Frequency (IDF):
+After computing TF, each words IDF is calculated. IDF refers to Inverse Document Frequency which indicates the number of documents in which
+a term appears, reflecting its commonality. A high Inverse Document Frequency (IDF) suggests that the term is not particularly distinctive across documents. An example could be (word_id, doc_freq) as shown in the image below.
+
+### TF-IDF weights:
+TF/IDF weights are essentially term frequencies adjusted by Inverse Document Frequency (IDF) normalisation. To implement this, every word's term frequency is divided by its IDF value
