@@ -1,0 +1,841 @@
+Title: Production coordinator
+Relevance: 2.362615624682049
+Content: 
+A '''production coordinator''' (officially called '''production office coordinator''' and abbreviated '''POC''') is a unionized position in stagecraft under the International Alliance of Theatrical Stage Employees (IATSE) and is governed in Los Angeles by Local 871.
+
+The production coordinator serves under the production manager producer  or UPM to coordinate the various groups and personnel that come together in filmmaking to a movie and video production to make a television show. It is a supervisory  position to the Production assistant staff. The position requires adept organizational skills resourcefulness and the ability to handle a  multitude of tasks simultaneously under often high-pressure situations. The POC serves as the gatekeeper of company policy  and is usually responsible for ensuring the rest of the production television crew follows the requirements of the Production Company or Studio.
+
+The duties of a POC are often undefined and extremely varied ranging from office manager to human resources to controller to accountant. The POC is one of the only positions with the IATSE (USA and Canada) which no longer has a scale or set wage. The IA bylaws simply state the POC’s wage is “subject to negotiation with the Producer”. Fringe benefits include inclusion with the (USA)industry’s Motion Picture Industry Pension & Health Plans. Currently the production company is required to contribute 60 pensions hours per week which equates to about 35-percent of the weekly gross wage. Most all POCs are hired an "on-call" weekly status and are basically paid a flat rate per week no matter how many or few hours they work. Working conditions can vary on the medium (half-hour hour-long television reality live soap and feature) and daily hours can range from 8 to 16 hour days. The POC is often the first person in the office and the last to leave since they hold the responsibility of tending to the needs of the crew. 
+
+More recent attempts have been made by Local 871 to establish a scale rate for the POCs but to date all have been unsuccessful.
+
+The union has a relaxed jurisdiction over the position since it does not have an official job description for a POC. It also governs another junior position in the category called Assistant Production Coordinator or APOC but again since it does not have an official job description in its bylaws many studios are able to avoid hiring the APOC.
+
+
+Title: Spacetime
+Relevance: 0.3391740878128639
+Content: 
+
+=== Galilean transformations===
+
+
+'''''Click here for a brief section summary'''''
+'''Note:''' To avoid navigation issues with the internal wikilinks mobile phone users should pre-expand all sections from ''Section Summaries'' back to the ''Introduction''.
+
+A basic goal is to be able to compare measurements made by observers in relative motion. Say we have an observer O  in frame S who has measured the time and space coordinates of an event assigning this event three Cartesian coordinates and the time as measured on his lattice of synchronized clocks  (see '''Fig. 1‑1'''). A second observer O′ in a different frame S′ measures the same event in ''her'' coordinate system and ''her'' lattice of synchronized clocks . Since we are dealing with inertial frames neither observer is under acceleration and a simple set of equations allows us to relate coordinates  to . Given that the two coordinate systems are in standard configuration meaning that they are aligned with parallel  coordinates and that  when  the coordinate transformation is as follows:
+:
+:
+:
+:
+
+Figure 3-1. '''Galilean''' Spacetime and composition of velocities.
+Fig. 3-1 illustrates that in Newton's theory time is universal not the velocity of light. Consider the following thought experiment: The red arrow illustrates a train that is moving at 0.4 c with respect to the platform. Within the train a passenger shoots a bullet with a speed of 0.4 c in the frame of the train. The blue arrow illustrates that a person standing on the train tracks measures the bullet as traveling at 0.8 c. This is in accordance with our naive expectations.
+
+More generally assume that frame S′ is moving at velocity ''v'' with respect to frame S. Within frame S′ observer O′ measures an object moving with velocity . What is its velocity ''u'' with respect to frame S? Since   and  we can write  =  = . This leads to  and ultimately
+:  or  
+
+which is the common-sense '''Galilean law for the addition of velocities'''.
+
+''Return to Introduction''
+
+
+=== Relativistic composition of velocities ===
+
+'''''Click here for a brief section summary'''''
+Figure 3-2. Relativistic composition of velocities
+The composition of velocities is quite different in relativistic spacetime. To reduce the complexity of the equations slightly we introduce a common shorthand for the ratio of the speed of an object relative to light
+
+:
+
+Fig. 3-2a illustrates a red train that is moving forward at a speed given by . From the primed frame of the train a passenger shoots a bullet with a speed given by   where the distance is measured along a line parallel to the red  axis rather than parallel to the black ''x'' axis. What is the composite velocity ''u'' of the bullet relative to the platform as represented by the blue arrow? Referring to Fig. 3‑2b:
+#From the platform the composite speed of the bullet is given by . 
+#The two yellow triangles are similar because they are right triangles that share a common angle ''α''. In the large yellow triangle the ratio .
+#The ratios of corresponding sides of the two yellow triangles are constant so that  = . So  and .
+#Substitute the expressions for ''b'' and ''r'' into the expression for ''u'' in step 1 to yield Einstein's formula for the addition of velocities:
+
+::
+
+The relativistic formula for addition of velocities presented above exhibits several important features:
+* If  and ''v'' are both very small compared with the speed of light then the product /''c''2 becomes vanishingly small and the overall result becomes indistinguishable from the Galilean formula (Newton's formula) for the addition of velocities: ''u'' =  + ''v''. The Galilean formula is a special case of the relativistic formula applicable to low velocities.
+* If  is set equal to ''c'' then the formula yields ''u'' = ''c'' regardless of the starting value of ''v''. The velocity of light is the same for all observers regardless their motions relative to the emitting source.
+
+''Return to Introduction''
+
+
+=== Time dilation and length contraction revisited ===
+
+Figure 3-3. Spacetime diagrams illustrating time dilation and length contraction
+'''''Click here for a brief section summary'''''
+
+We had previously discussed in qualitative terms time dilation and length contraction. It is straightforward to obtain quantitative expressions for these effects. Fig. 3‑3 is a composite image containing individual frames taken from two previous animations simplified and relabeled for the purposes of this section.
+
+To reduce the complexity of the equations slightly we see in the literature a variety of different shorthand notations for ''ct'' :
+
+: and  are common.
+:One also sees very frequently the use of the convention 
+
+Figure 3-4. Lorentz factor as a function of velocity
+In Fig. 3-3a segments ''OA'' and ''OK'' represent equal spacetime intervals. Time dilation is represented by the ratio ''OB''/''OK''. The invariant hyperbola has the equation   where ''k'' = ''OK'' and the red line representing the world line of a particle in motion has the equation ''w'' = ''x''/''β'' = ''xc''/''v''. A bit of algebraic manipulation yields 
+
+The expression involving the square root symbol appears very frequently in relativity and one over the expression is called the Lorentz factor denoted by the Greek letter gamma :
+:
+
+We note that if ''v'' is greater than or equal to ''c'' the expression for  becomes physically meaningless implying that ''c'' is the maximum possible speed in nature. Next we note that for any ''v'' greater than zero the Lorentz factor will be greater than one although the shape of the curve is such that for low speeds the Lorentz factor is extremely close to one.
+
+In Fig. 3-3b segments ''OA'' and ''OK'' represent equal spacetime intervals. Length contraction is represented by the ratio ''OB''/''OK''. The invariant hyperbola has the equation  where ''k'' = ''OK'' and the edges of the blue band representing the world lines of the endpoints of a rod in motion have slope 1/''β'' = ''c''/''v''. Event A has coordinates 
+(''x'' ''w'') = (''γk'' ''γβk''). Since the tangent line through A and B has the equation ''w'' = (''x'' − ''OB'')/''β'' we have ''γβk'' = (''γk'' − ''OB'')/''β'' and
+:
+
+''Return to Introduction''
+
+
+=== Lorentz transformations ===
+
+'''''Click here for a brief section summary'''''
+
+The Galilean transformations and their consequent commonsense law of addition of velocities work well in our ordinary low-speed world of planes cars and balls. Beginning in the mid-1800s however sensitive scientific instrumentation began finding anomalies that did not fit well with the ordinary addition of velocities.
+
+To transform the coordinates of an event from one frame to another in special relativity we use the Lorentz transformations.
+
+The Lorentz factor appears in the Lorentz transformations:
+:
+
+The inverse Lorentz transformations are: 
+:
+
+When ''v'' ≪ ''c'' the ''v''2/c2 and ''vx''/''c''2 terms approach zero and the Lorentz transformations approximate to the Galilean transformations.
+
+As noted before when we write    and so forth we most often ''really'' mean   and so forth. Although for brevity we write the Lorentz transformation equations without deltas it should be understood that ''x'' means Δ''x'' etc. We are in general always concerned with the space and time ''differences'' between events.
+
+'''Note on nomenclature:''' Calling one set of transformations the normal Lorentz transformations and the other the inverse transformations is misleading since there is no intrinsic difference between the frames. Different authors call one or the other set of transformations the "inverse" set. The forwards and inverse transformations are trivially related to each other since the ''S'' frame can only be moving forwards or reverse with respect to . So inverting the equations simply entails switching the primed and unprimed variables and replacing ''v'' with −''v''.
+
+'''Example:''' Terence and Stella are at an Earth-to-Mars space race. Terence is an official at the starting line  while Stella is a participant. At time  Stella's spaceship accelerates instantaneously to a speed of 0.5 ''c''. The distance from Earth to Mars is 300 light-seconds (about ). Terence observes Stella crossing the finish-line clock at ''t'' = 600.00 s. But Stella observes the time on her ship chronometer to be   = 519.62 s as she passes the finish line and she calculates the distance between the starting and finish lines as measured in her frame to be 259.81 light-seconds (about ).
+1).
+
+''Return to Introduction''
+
+==== Deriving the Lorentz transformations ====
+
+Figure 3-5. Derivation of Lorentz Transformation
+There have been many dozens of derivations of the Lorentz transformations since Einstein's original work in 1905 each with its particular focus. Although Einstein's derivation was based on the invariance of the speed of light there are other physical principles that may serve as starting points. Ultimately these alternative starting points can be considered different expressions of the underlying principle of locality which states that the influence that one particle exerts on another can not be transmitted instantaneously.
+
+The derivation given here and illustrated in Fig. 3‑5 is based on one presented by Bais and makes use of previous results from the Relativistic Composition of Velocities Time Dilation and Length Contraction sections. Event P has coordinates (''w'' ''x'') in the black "rest system" and coordinates ( ) in the red frame that is moving with velocity parameter ''β'' = ''v''/''c''. How do we determine  and  in terms of ''w'' and ''x''? (Or the other way around of course.)
+
+It is easier at first to derive the ''inverse'' Lorentz transformation.
+#We start by noting that there can be no such thing as length expansion/contraction in the transverse directions. ''y'' must equal ''y'' and  must equal ''z'' otherwise whether a fast moving 1 m ball could fit through a 1 m circular hole would depend on the observer. The first postulate of relativity states that all inertial frames are equivalent and transverse expansion/contraction would violate this law.
+#From the drawing ''w'' = ''a'' + ''b'' and ''x'' = ''r'' + ''s''
+#From previous results using similar triangles we know that ''s''/''a'' = ''b''/''r'' = ''v''/''c'' = ''β''.
+#We know that because of time dilation ''a'' = ''γ''
+#Substituting equation (4) into ''s''/''a'' = ''β'' yields ''s'' = ''β''.
+#Length contraction and similar triangles give us ''r'' =  and ''b'' = ''βr'' = ''βγ''
+#Substituting the expressions for ''s'' ''a'' ''r'' and ''b'' into the equations in Step 2 immediately yield
+#:
+#:
+
+The above equations are alternate expressions for the t and x equations of the inverse Lorentz transformation as can be seen by substituting ''ct'' for ''w''  for  and ''v''/''c'' for ''β''. From the inverse transformation the equations of the forwards transformation can be derived by solving for  and .
+
+''Return to Introduction''
+
+==== Linearity of the Lorentz transformations ====
+The Lorentz transformations have a mathematical property called linearity since ''x'' and ''t'' are obtained as linear combinations of ''x'' and ''t'' with no higher powers involved. The linearity of the transformation reflects a fundamental property of spacetime that we tacitly assumed while performing the derivation namely that the properties of inertial frames of reference are independent of location and time. In the absence of gravity spacetime looks the same everywhere. All inertial observers will agree on what constitutes accelerating and non-accelerating motion. Any one observer can use her own measurements of space and time but there is nothing absolute about them. Another observer's conventions will do just as well.
+
+A result of linearity is that if two Lorentz transformations are applied sequentially the result is also a Lorentz transformation.
+
+'''Example:''' Terence observes Stella speeding away from him at 0.500 c and he can use the Lorentz transformations with ''β'' = 0.500 to relate Stella's measurements to his own. Stella in her frame observes Ursula traveling away from her at 0.250 c and she can use the Lorentz transformations with ''β'' = 0.250 to relate Ursula's measurements with her own. Because of the linearity of the transformations and the relativistic composition of velocities Terence can use the Lorentz transformations with ''β'' = 0.666 to relate Ursula's measurements with his own.
+
+''Return to Introduction''
+
+
+=== Doppler effect ===
+
+'''''Click here for a brief section summary'''''
+
+The Doppler effect is the change in frequency or wavelength of a wave for a receiver and source in relative motion. For simplicity we consider here two basic scenarios: (1) The motions of the source and/or receiver are exactly along the line connecting them (longitudinal Doppler effect) and (2) the motions are at right angles to the said line (transverse Doppler effect). We are ignoring scenarios where they move along intermediate angles.
+
+==== Longitudinal Doppler effect ====
+The classical Doppler analysis deals with waves that are propagating in a medium such as sound waves or water ripples and which are transmitted between sources and receivers that are moving towards or away from each other. The analysis of such waves depends on whether the source the receiver or both are moving relative to the medium. Given the scenario where the receiver is stationary with respect to the medium and the source is moving directly away from the receiver at a speed of ''vs'' for a velocity parameter of ''βs'' the wavelength is increased and the observed frequency ''f'' is given by
+: 
+
+On the other hand given the scenario where source is stationary and the receiver is moving directly away from the source at a speed of ''vr'' for a velocity parameter of ''βr'' the wavelength is ''not'' changed but the transmission velocity of the waves relative to the receiver is decreased and the observed frequency ''f'' is given by
+: 
+
+Figure 3-6. Spacetime diagram of relativistic Doppler effect
+Light unlike sound or water ripples does not propagate through a medium and there is no distinction between a source moving away from the receiver or a receiver moving away from the source. Fig. 3‑6 illustrates a relativistic spacetime diagram showing a source separating from the receiver with a velocity parameter ''β'' so that the separation between source and receiver at time ''w'' is ''βw''. Because of time dilation ''w = γw''. Since the slope of the green light ray is −1 T = ''w+βw'' = ''γw''(1''+β''). Hence the relativistic Doppler effect is given by
+::
+
+''Return to Introduction''
+
+==== Transverse Doppler effect ====
+Figure 3-7. Transverse Doppler effect scenarios
+Suppose that a source moving in a straight line is at its closest point to the receiver. It would appear that the classical analysis predicts that the receiver detects no Doppler shift. Due to subtleties in the analysis that expectation is not necessarily true. Nevertheless when appropriately defined transverse Doppler shift is a relativistic effect that has no classical analog. The subtleties are these:
+
+In scenario (a) when the source is closest to the receiver the light hitting the receiver actually comes from a direction where the source had been some time back and it has a significant longitudinal component making an analysis from the frame of the receiver tricky. It is easier to make the analysis from S' the frame of the source. The point of closest approach is frame-independent and represents the moment where there is no change in distance versus time  (i.e. dr/dt = 0 where r is the distance between receiver and source) and hence no longitudinal Doppler shift. The source observes the receiver as being illuminated by light of frequency ''f'' but also observes the receiver as having a time-dilated clock. In frame S the receiver is therefore illuminated by blueshifted light of frequency
+:
+
+Scenario (b) is best analyzed from S the frame of the receiver. The illustration shows the receiver being illuminated by light from when the source was closest to the receiver even though the source has moved on. Because the source's clocks are time dilated and since dr/dt was equal to zero at this point the light from the source emitted from this closest point is redshifted with frequency
+:
+
+Scenarios (c) and (d) can be analyzed by simple time dilation arguments. In (c) the receiver observes light from the source as being blueshifted by a factor of  and in (d) the light is redshifted. The only seeming complication is that the orbiting objects are in accelerated motion. However if an inertial observer looks at an accelerating clock only the clock's instantaneous speed is important when computing time dilation. (The converse however is not true.) Most reports of transverse Doppler shift refer to the effect as a redshift and analyze the effect in terms of scenarios (b) or (d).
+
+''Return to Introduction''
+
+
+=== Energy and momentum ===
+
+'''''Click here for a brief section summary'''''
+
+==== Extending momentum to four dimensions ====
+Figure 3-8. Relativistic spacetime momentum vector
+In classical mechanics the state of motion of a particle is characterized by its mass and its velocity. Linear momentum the product of a particle's mass and velocity is a vector quantity possessing the same direction as the velocity: '''''p''''' = ''m'''v'''''. It is a ''conserved'' quantity meaning that if a closed system is not affected by external forces its total linear momentum cannot change.
+
+In relativistic mechanics the momentum vector is extended to four dimensions. Added to the momentum vector is a time component that allows the spacetime momentum vector to transform like the spacetime position vector ''(x t)''. In exploring the properties of the spacetime momentum we start in Fig. 3‑8a by examining what a particle looks like at rest. In the rest frame the spatial component of the momentum is zero i.e. ''p = 0'' but the time component equals ''mc''.
+
+We can obtain the transformed components of this vector in the moving frame by using the Lorentz transformations or we can read it directly from the figure because we know that ''(mc) = γmc'' and ''p = −βγmc'' since the red axes are rescaled by gamma. Fig. 3‑8b illustrates the situation as it appears in the moving frame. It is apparent that the space and time components of the four-momentum go to infinity as the velocity of the moving frame approaches ''c''.
+
+We will use this information shortly to obtain an expression for the four-momentum.
+
+''Return to Introduction''
+
+==== Momentum of light ====
+Figure 3-9. Energy and momentum of light in different inertial frames
+Light particles or photons travel at the speed of ''c'' the constant that is conventionally known as the ''speed of light''. This statement is not a tautology since many modern formulations of relativity do not start with constant speed of light as a postulate. Photons therefore propagate along a light-like world line and in appropriate units have equal space and time components for every observer.
+
+A consequence of Maxwell's theory of electromagnetism is that light carries energy and momentum and that their ratio is a constant: ''E/p = c''. Rearranging ''E/c'' = ''p'' and since for photons the space and time components are equal ''E/c'' must therefore be equated with the time component of the spacetime momentum vector.
+
+Photons travel at the speed of light yet have finite momentum and energy. For this to be so the mass term in ''γmc'' must be zero meaning that photons are massless particles. Infinity times zero is an ill-defined quantity but ''E/c'' is well-defined.
+
+By this analysis if the energy of a photon equals ''E'' in the rest frame it equals  in a moving frame. This result can by derived by inspection of Fig. 3‑9 or by application of the Lorentz transformations and is consistent with the analysis of Doppler effect given previously.
+
+''Return to Introduction''
+
+==== Mass-energy relationship ====
+Consideration of the interrelationships between the various components of the relativistic momentum vector led Einstein to several famous conclusions.
+
+*In the low speed limit as ''β'' = ''v/c'' approaches zero  approaches 1 so the spatial component of the relativistic momentum  approaches ''mv'' the classical term for momentum. Following this perspective ''γm'' can be interpreted as a relativistic generalization of ''m''. Einstein proposed that the ''relativistic mass'' of an object increases with velocity according to the formula .
+*Likewise comparing the time component of the relativistic momentum with that of the photon  so that Einstein arrived at the relationship . Simplified to the case of zero velocity this is Einstein's famous equation relating energy and mass.
+
+Another way of looking at the relationship between mass and energy is to consider a series expansion of  at low velocity:
+:  
+The second term is just an expression for the kinetic energy of the particle. Mass indeed appears to be another form of energy.
+
+The concept of relativistic mass that Einstein introduced in 1905 ''mrel'' although amply validated every day in particle accelerators around the globe (or indeed in any instrumentation whose use depends on high velocity particles such as electron microscopes old-fashioned color television sets etc.) has nevertheless not proven to be a ''fruitful'' concept in physics in the sense that it is not a concept that has served as a basis for other theoretical development. Relativistic mass for instance plays no role in general relativity.
+
+For this reason as well as for pedagogical concerns most physicists currently prefer a different terminology when referring to the relationship between mass and energy. "Relativistic mass" is a deprecated term. The term "mass" by itself refers to the rest mass or invariant mass and is equal to the invariant length of the relativistic momentum vector. Expressed as a formula 
+: 
+This formula applies to all particles massless as well as massive. For massless photons it yields the same relationship that we had earlier established .
+
+''Return to Introduction''
+
+==== Four-momentum ====
+Because of the close relationship between mass and energy the four-momentum (also called 4‑momentum) is also called the energy-momentum 4‑vector. Using an uppercase ''P'' to represent the four-momentum and a lowercase '''''p''''' to denote the spatial momentum the four-momentum may be written as
+:  or alternatively
+:  using the convention that 
+
+''Return to Introduction''
+
+
+=== Conservation laws ===
+
+'''''Click here for a brief section summary'''''
+
+In physics conservation laws state that certain particular measurable properties of an isolated physical system do not change as the system evolves over time. In 1915 Emmy Noether discovered that underlying each conservation law is a fundamental symmetry of nature. The fact that physical processes don't care ''where'' in space they take place (space translation symmetry) yields conservation of momentum the fact that such processes don't care ''when'' they take place (time translation symmetry) yields conservation of energy and so on. In this section we examine the Newtonian views of conservation of mass momentum and energy from a relativistic perspective.
+
+==== Total momentum ====
+Figure 3-10. Relativistic conservation of momentum
+To understand how the Newtonian view of conservation of momentum needs to be modified in a relativistic context we examine the problem of two colliding bodies limited to a single dimension.
+
+In Newtonian mechanics two extreme cases of this problem may be distinguished yielding mathematics of minimum complexity: (1) The two bodies rebound from each other in a completely elastic collision. (2) The two bodies stick together and continue moving as a single particle. This second case is the case of completely inelastic collision. For both cases (1) and (2) momentum mass and total energy are conserved. However kinetic energy is not conserved in cases of inelastic collision. A certain fraction of the initial kinetic energy is converted to heat.
+
+In case (2) two masses with momentums  
+and  collide to produce a single particle of conserved mass  traveling at the center of mass velocity of the original system . The total momentum  is conserved.
+
+Fig. 3‑10 illustrates the inelastic collision of two particles from a relativistic perspective. The time components ''E1/c'' and ''E2/c'' add up to total ''E/c'' of the resultant vector meaning that energy is conserved. Likewise the space components ''p1'' and ''p2'' add up to form ''p'' of the resultant vector. The four-momentum is as expected a conserved quantity. However the invariant mass of the fused particle given by the point where the invariant hyperbola of the total momentum intersects the energy axis is not equal to the sum of the invariant masses of the individual particles that collided. Indeed it is larger than the sum of the individual masses: .
+
+Looking at the events of this scenario in reverse sequence we see that non-conservation of mass is a common occurrence: when an unstable elementary particle spontaneously decays into two lighter particles total energy is conserved but the mass is not. Part of the mass is converted into kinetic energy.
+
+''Return to Introduction''
+
+==== Choice of reference frames ====
+
+The freedom to choose any frame in which to perform an analysis allows us to pick one which may be particularly convenient. For analysis of momentum and energy problems the most convenient frame is usually the "center-of-momentum frame" (also called the zero-momentum frame or COM frame). This is the frame in which the space component of the system's total momentum is zero. Fig. 3‑11 illustrates the breakup of a high speed particle into two daughter particles. In the lab frame the daughter particles are preferentially emitted in a direction oriented along the original particle's trajectory. In the COM frame however the two daughter particles are emitted in opposite directions although their masses and the magnitude of their velocities are generally not the same.
+
+''Return to Introduction''
+
+==== Energy and momentum conservation ====
+In a Newtonian analysis of interacting particles transformation between frames is simple because all that is necessary is to apply the Galilean transformation to all velocities. Since  the momentum . If the total momentum of an interacting system of particles is observed to be conserved in one frame it will likewise be observed to be conserved in any other frame.
+
+Conservation of momentum in the COM frame amounts to the requirement that ''p'' = 0 both before and after collision. In the Newtonian analysis conservation of mass dictates that . In the simplified one-dimensional scenarios that we have been considering only one additional constraint is necessary before the outgoing momenta of the particles can be determined—an energy condition. In the one-dimensional case of a completely elastic collision with no loss of kinetic energy the outgoing velocities of the rebounding particles in the COM frame will be precisely equal and opposite to their incoming velocities. In the case of a completely inelastic collision with total loss of kinetic energy the outgoing velocities of the rebounding particles will be zero.
+
+Newtonian momenta calculated as  fail to behave properly under Lorentzian transformation. The linear transformation of velocities  is replaced by the highly nonlinear
+ so that a calculation demonstrating conservation of momentum in one frame will be invalid in other frames. Einstein was faced with either having to give up conservation of momentum or to change the definition of momentum. As we have discussed in the previous section on '''four-momentum''' this second option was what he chose.
+
+
+The relativistic conservation law for energy and momentum replaces the three classical conservation laws for energy momentum and mass. Mass is no longer conserved independently because it has been subsumed into the total relativistic energy. This makes the relativistic conservation of energy a simpler concept than in nonrelativistic mechanics because the total energy is conserved without any qualifications. Kinetic energy converted into heat or internal potential energy shows up as an increase in mass.
+
+'''Example:''' Because of the equivalence of mass and energy elementary particle masses are customarily stated in energy units where  electron volts. A charged pion is a particle of mass 139.57 MeV (approx. 273 times the electron mass). It is unstable and decays into a muon of mass 105.66 MeV (approx. 207 times the electron mass) and an antineutrino which has an almost negligible mass. The difference between the pion mass and the muon mass is 33.91 MeV.
+:  →  +  
+
+Fig. 3‑12a illustrates the energy-momentum diagram for this decay reaction in the rest frame of the pion. Because of its negligible mass a neutrino travels at very nearly the speed of light. The relativistic expression for its energy like that of the photon is  which is also the value of the space component of its momentum. To conserve momentum the muon has the same value of the space component of the neutrino's momentum but in the opposite direction.
+
+Algebraic analyses of the energetics of this decay reaction are available online so Fig. 3‑12b presents instead a graphing calculator solution. The energy of the neutrino is 29.79 MeV and the energy of the muon is  Interestingly most of the energy is carried off by the near-zero-mass neutrino. 
+
+
+''Return to Introduction''
+
+
+Title: Arthur Tansley
+Relevance: 0.12037037037037036
+Content: Tansley's early publications focused on palaeobotany especially fern evolution. Tansley founded the botany journal ''New Phytologist'' in 1902 to serve as "a medium of easy communication and discussion between British botanists on all matters . . . including methods of teaching and research". It was named after ''The Phytologist'' a botanical magazine published between 1842 and 1863. In establishing this journal Tansley's aim was to provide a venue for the publication of "notes and suggestions"; existing botanical journals only published records of completed research. He remained editor of the journal until 1931.
+
+Tansley's introduction to ecology came in 1898 when he read Warming's ''Plantesamfund'' (in its German translation ''Lehrbuch der ökologischen Pflanzengeographie''). Reading the book provoked him to "go out into the field to see how far one could match the plant communities Warming had described for Denmark in the English countryside". In 1903 he learned of the work done by the Smith brothers in mapping the vegetation of Scotland and Yorkshire. The work was initiated by Robert Smith and continued by his brother William Gardner Smith (in conjunction with Charles Edward Moss) after Robert's death. In 1904 Tansley suggested the formation of a central body for the systematic survey and mapping of the British Isles. This led to the establishment of the "Central Committee for the Survey and Study of British Vegetation" by Tansley Moss William Smith and T. W. Woodhead with the support of Marcel Hardy F. J. Lewis Lloyd Praeger and W. M. Rankin. These eight formed the original committee with Tansley as its leader. F. W. Oliver later joined the group as its ninth member. The name of the group was later shortened to "The British Vegetation Committee". The aim of the group was to coordinate ongoing studies and standardise the methodology being used. The committee met twice more in 1905 and produced a six-page pamphlet ''Suggestions for Beginning Survey Work on Vegetation''.
+
+In 1911 Tansley in conjunction with the British Vegetation Committee organised the first International Phytogeographic Excursion (IPE). He was inspired by a plant geography tour of Switzerland organised by Swiss botanist Carl Schröter in 1908 which introduced him not only to vegetation types but also to botanists from other countries. The connections made between Tansley and American ecologists Henry Chandler Cowles and Frederic Clements helped build a philosophical and methodological link between British and American plant ecology. Other attendees included Schröter Swedish botanist Carl Lindman and German botanists Oscar Drude and Paul Graebner. Tansley's book ''Types of British Vegetation'' was prepared with an eye to serving as a guide to the vegetation for the attendees of the first IPE. The second IPE in 1913 was hosted by Cowles. This brought Tansley to America.
+
+In 1913 the British Vegetation Committee organised the British Ecological Society (BES) the first-ever professional society of ecologists. Tansley served as its first president and was first editor of the ''Journal of Ecology'' a position he held for 21 years. In 1915 he was elected a Fellow of the Royal Society and in 1923 he was elected president of the Botanical Section of the British Association for the Advancement of Science. At the Imperial Botanical Congress in 1924 he was appointed chairman of the British Empire Vegetation Committee. He served as president of the BES a second time in 1938.
+
+William S. Cooper considered Tansley's most influential publications synthesised individual studies into a whole. In 1935 Tansley published "The use and abuse of vegetational terms and concepts" in which he introduced the ecosystem concept. In the 1930s ecological thinking was dominated by the work of Clements who thought of ecological communities as organisms and associations as superorganisms. Tansley devised the concept to draw attention to the importance of transfers of materials between organisms and their environment regarding ecosystems as the basic units of nature.
+Tansley's interest in teaching led to the production of the ''Elements of Plant Ecology'' in 1922 which was followed by ''Practical Plant Ecology'' in 1923 and ''Aims and methods in the study of vegetation'' in 1926 coauthored with Thomas Ford Chipp. The last book edited for the British Empire vegetation committee was extremely influential not just in defining ecological methods but in highlighting the need for a complete inventory of the empire's "vegetational assets". With this information it would be possible to efficiently manage the vast natural resources of the empire. Tansley's most comprehensive work ''The British Islands and Their Vegetation'' was published in 1939. In recognition of this achievement he was awarded the Linnean Medal in 1941.
+
+During the Second World War Tansley became committed to conservation and this continued through post-war reconstruction. He chaired a committee of the BES that formulated a policy on nature reserves and led to the formation of the Nature Conservancy which he also chaired. Tansley's conservation work was the basis cited for his knighthood in 1950.
+
+Tansley was introduced to psychology by a former student Bernard Hart who worked as a doctor in mental hospitals near London.  While working for the Ministry of Munitions during the First World War he had a dream which was described as "one of the major turning points in his life" – from this dream came Tansley's interest in Freud and psychoanalysis. In 1920 he published ''The New Psychology and its Relation to Life'' one of the first books that attempted to introduce the ideas of Freud and Carl Jung to a general audience. The book was a bestseller selling 10000 copies in the United Kingdom and 4000 in the United States. In 1922 Tansley spent three months with Freud and the following year he moved his family to Vienna for a year. Although he later returned to botanical pursuits Tansley remained in contact with Freud and wrote his obituary. Recent research by Peder Anker has suggested a close theoretical relationship between Tansley's ecology and his psychology.
+
+
+Title: Kazakhstan
+Relevance: 0.09864197530864198
+Content: 
+
+A proportional representation of Kazakhstan's exports.
+Baikonur Cosmodrome is the world's oldest and largest operational space launch facility.
+
+Kazakhstan has the largest and strongest performing economy in Central Asia. Supported by rising oil output and prices Kazakhstan’s economy grew at an average of 8% per year until 2013 before suffering a slowdown in 2014 and 2015 Kazakhstan was the first former Soviet Republic to repay all of its debt to the International Monetary Fund 7 years ahead of schedule.
+
+Buoyed by high world crude oil prices GDP growth figures were between 8.9% and 13.5% from 2000 to 2007 before decreasing to 1–3% in 2008 and 2009 and then rising again from 2010. Other major exports of Kazakhstan include wheat textiles and livestock. Kazakhstan is a leading exporter of uranium.
+
+Kazakhstan’s economy grew by 4.6% in 2014. The country experienced a slowdown in economic growth from 2014 sparked by falling oil prices and the effects of the Ukrainian crisis The country devalued its currency by 19% in February 2014. Another 22% devaluation occurred in August 2015.
+
+Kazakhstan’s fiscal situation is stable. The government has continued to follow a conservative fiscal policy by controlling budget spending and accumulating oil revenue savings in its Oil Fund – Samruk-Kazyna. The global financial crisis forced Kazakhstan to increase its public borrowing to support the economy. Public debt increased to 13.4 per cent in 2013 from 8.7 per cent in 2008. Between 2012 and 2013 the government achieved an overall fiscal surplus of 4.5 per cent.
+
+Since 2002 Kazakhstan has sought to manage strong inflows of foreign currency without sparking inflation. Inflation has not been under strict control however registering 6.6% in 2002 6.8% in 2003 and 6.4% in 2004.
+
+In March 2002 the US Department of Commerce granted Kazakhstan market economy status under US trade law. This change in status recognised substantive market economy reforms in the areas of currency convertibility wage rate determination openness to foreign investment and government control over the means of production and allocation of resources.
+
+===Economic stewardship during the Global Financial Crisis===
+Kazakhstan weathered the global financial crisis well by combining fiscal relaxation with monetary stabilisation. In 2009 the government introduced large-scale support measures such as the recapitalisation of banks and support for the real estate and agricultural sectors as well as for small and medium enterprises (SMEs). The total value of the stimulus programs amounted to $21 billion or 20 per cent of the country’s GDP with $4 billion going to stabilise the financial sector. During the global economic crisis Kazakhstan’s economy contracted by 1.2% in 2009 while the annual growth rate subsequently increased to 7.5% and 5% in 2011 and 2012 respectively.
+
+In September 2002 Kazakhstan became the first country in the CIS to receive an investment grade credit rating from a major international credit rating agency. As of late December 2003 Kazakhstan's gross foreign debt was about $22.9 billion. Total governmental debt was $4.2 billion 14% of GDP. There has been a reduction in the ratio of debt to GDP. The ratio of total governmental debt to GDP in 2000 was 21.7%; in 2001 it was 17.5% and in 2002 it was 15.4%.
+
+Economic growth combined with earlier tax and financial sector reforms has dramatically improved government finance from the 1999 budget deficit level of 3.5% of GDP to a deficit of 1.2% of GDP in 2003. Government revenues grew from 19.8% of GDP in 1999 to 22.6% of GDP in 2001 but decreased to 16.2% of GDP in 2003. In 2000 Kazakhstan adopted a new tax code in an effort to consolidate these gains.
+
+Kazakhstan's capital Astana 
+On 29 November 2003 the Law on Changes to Tax Code which reduced tax rates was adopted. The value added tax fell from 16% to 15% the social tax from 21% to 20% and the personal income tax from 30% to 20%. On 7 July 2006 the personal income tax was reduced even further to a flat rate of 5% for personal income in the form of dividends and 10% for other personal income. Kazakhstan furthered its reforms by adopting a new land code on 20 June 2003 and a new customs code on 5 April 2003.
+
+Energy is the leading economic sector. Production of crude oil and natural gas condensate from the oil and gas basins of Kazakhstan amounted to  in 2012 up from  in 2003. Kazakhstan raised oil and gas condensate exports to 44.3 million tons in 2003 13% higher than in 2002. Gas production in Kazakhstan in 2003 amounted to  up 22.7% compared to 2002 including natural gas production of . Kazakhstan holds about  of proven recoverable oil reserves and  of gas. According to industry analysts expansion of oil production and the development of new fields will enable the country to produce as much as  per day by 2015 and Kazakhstan would be among the top 10 oil-producing nations in the world. Kazakhstan's oil exports in 2003 were valued at more than $7 billion representing 65% of overall exports and 24% of the GDP. Major oil and gas fields and recoverable oil reserves are Tengiz with ; Karachaganak with  and  of natural gas; and Kashagan with 7 to .
+
+Aktau is Kazakhstan's only seaport on the Caspian Sea
+Kazakhstan instituted an ambitious pension reform program in 1998. As of 1 January 2012 the pension assets were about $17 billion (KZT 2.5 trillion). There are 11 saving pension funds in the country. The State Accumulating Pension Fund the only state-owned fund was privatised in 2006. The country's unified financial regulatory agency oversees and regulates the pension funds. The growing demand of the pension funds for quality investment outlets triggered rapid development of the debt securities market. Pension fund capital is being invested almost exclusively in corporate and government bonds including government of Kazakhstan Eurobonds. The government of Kazakhstan is studying a project to create a unified national pension fund and transfer all the accounts from the private pension funds into it.
+
+The banking system of Kazakhstan is developing rapidly and the system's capitalisation now exceeds $1 billion. The National Bank has introduced deposit insurance in its campaign to strengthen the banking sector. Due to troubling and non-performing bad assets the bank sector yet is at risk to lose stability. Several major foreign banks have branches in Kazakhstan including RBS Citibank and HSBC. Kookmin and UniCredit have both recently entered the Kazakhstan's financial services market through acquisitions and stake-building.
+
+According to the 2010–11 World Economic Forum in Global Competitiveness Report Kazakhstan was ranked 72nd in the world in economic competitiveness. 
+One year later the Global Competitiveness Report ranked Kazakhstan 50th in most competitive markets.
+
+In 2012 Kazakhstan attracted $14 billion of foreign direct investment inflows into the country at a 7% growth rate making it the most attractive place to invest out of CIS nations.
+
+During the first half of 2013 Kazakhstan's fixed investment increased 7.1% compared to the same period in 2012 totalling 2.8 trillion tenge ($18 billion US dollars).
+
+In 2013 ''Aftenposten'' quoted the human-rights activist and lawyer Denis Jivaga as saying that there is an "oil fund in Kazakhstan but nobody knows how the income is spent".
+
+===Macroeconomic trends===
+Kazakhstan’s economy grew at an average of 8% per year over the past decade on the back of hydrocarbon exports. Despite the lingering uncertainty of the global economy Kazakhstan’s economy has been stable. GDP growth in January–September 2013 was 5.7% according to preliminary calculations of the Ministry Economy and Budget Planning.
+
+From January to September 2014 Kazakhstan's GDP grew at 4%. According to the results from the first half of the year the current account surplus is $6.6 billion a figure two times higher than that of the first half of 2013. According to the Chairman of the National Bank of Kazakhstan Kairat Kelimbetov the increase was caused by a trade surplus of 17.4 percent or approximately USD 22.6 billion. The overall inflation rate for 2014 is forecasted at 7.4 percent.
+
+===Agriculture===
+
+Agriculture accounts for approximately 5% of Kazakhstan's GDP. Grain potatoes vegetables melons and livestock are the most important agricultural commodities. Agricultural land occupies more than . The available agricultural land consists of  of arable land and  of pasture and hay land. Over 80% of the country’s total area is classified as agricultural land including almost 70% occupied by pasture. Its arable land has the second highest availability per inhabitant (1.5 hectares).
+
+Chief livestock products are dairy products leather meat and wool. The country's major crops include wheat barley cotton and rice. Wheat exports a major source of hard currency rank among the leading commodities in Kazakhstan's export trade. In 2003 Kazakhstan harvested 17.6 million tons of grain in gross 2.8% higher compared to 2002. Kazakh agriculture still has many environmental problems from mismanagement during its years in the Soviet Union. Some Kazakh wine is produced in the mountains to the east of Almaty.
+
+Kazakhstan is thought to be one of the places that the apple originated particularly the wild ancestor of ''Malus domestica'' ''Malus sieversii''. It has no common name in English but is known in its native Kazakhstan as ''alma''. The region where it is thought to originate is called ''Almaty'': "rich with apple". This tree is still found wild in the mountains of Central Asia in southern Kazakhstan Kyrgyzstan Tajikistan and Xinjiang in China.
+
+===Natural resources===
+
+Headquarters of KazMunayGaz Kazakhstan's national oil and gas company
+Kazakhstan has an abundant supply of accessible mineral and fossil fuel resources. Development of petroleum natural gas and mineral extractions has attracted most of the over $40 billion in foreign investment in Kazakhstan since 1993 and accounts for some 57% of the nation's industrial output (or approximately 13% of gross domestic product). According to some estimates Kazakhstan has the second largest uranium chromium lead and zinc reserves the third largest manganese reserves the fifth largest copper reserves and ranks in the top ten for coal iron and gold. It is also an exporter of diamonds. Perhaps most significant for economic development Kazakhstan also currently has the 11th largest proven reserves of both petroleum and natural gas.
+
+In total there are 160 deposits with over  of petroleum. Oil explorations have shown that the deposits on the Caspian shore are only a small part of a much larger deposit. It is said that  of oil and  of gas could be found in that area. Overall the estimate of Kazakhstan's oil deposits is . However there are only 3 refineries within the country situated in Atyrau Pavlodar and Shymkent. These are not capable of processing the total crude output so much of it is exported to Russia. According to the US Energy Information Administration Kazakhstan was producing approximately  of oil per day in 2009.
+
+Kazakhstan also possesses large deposits of phosphorite. One of the largest known being the Karatau basin with 650 million tonnes of P2O5 and Chilisai deposit of Aktyubinsk/Aqtobe phosphorite basin located in north western Kazakhstan with a resource of 500–800 million tonnes of 9% ore.
+
+On 17 October 2013 the Extractive Industries Transparency Initiative (EITI) accepted Kazakhstan as "EITI Compliant" meaning that the country has a basic and functional process to ensure the regular disclosure of natural resource revenues.
+
+===Tourism===
+
+Although largest landlocked country in the world Kazakhstan tourism industry is underdeveloped. International arrivals rose from 1.47 million in 2000 to 4.81 million in 2012. Among main tourist attractions there are five World Heritage Sites in Kazakhstan and thirteen are on the tentative list.
+
+===Transport===
+The Turkestan-Siberia Railway line connects Central Asia with Russian Siberia
+
+Most cities are connected by railroad; high-speed trains go from Almaty (the southernmost city) to Petropavl (the northernmost city) in about 18 hours.
+
+===Banking===
+The banking industry of the Republic of Kazakhstan experienced a pronounced boom and bust cycle over 2000s decade. After several years of rapid expansion in the mid-2000s the banking industry collapsed in 2008. Several large banking groups including BTA Bank J.S.C. and Alliance Bank defaulted soon after. Since then the industry has shrunk and been restructured with system-wide loans dropping to 39% of GDP in 2011 from 59% in 2007. Although the Russian and Kazakh banking systems share several common features there are also some fundamental differences. Banks in Kazakhstan have experienced a lengthy period of political stability and economic growth. Together with a rational approach to banking and finance policy this has helped push Kazakhstan’s banking system to a higher level of development. Banking technology and personnel qualifications alike are stronger in Kazakhstan than in Russia. On the negative side past stability in Kazakhstan arose from the concentration of virtually all political power in the hands of a single individual – the key factor in any assessment of system or country risk. The potential is there for serious disturbances if and when authority passes into new hands.
+
+===Green economy===
+The government has set the goals that a transition to the Green Economy in Kazakhstan occur by 2050. The green economy is projected to increase GDP by 3% and create more than 500 thousand new jobs.
+
+The government of Kazakhstan has set prices for energy produced from renewable sources. The price of 1 kilowatt-hour for energy produced by wind power plants was set at 22.68 tenge ($0.12). The price for 1 kilowatt-hour produced by small hydro-power plants is 16.71 tenge ($0.09) and from biogas plants 32.23 tenge ($0.18).
+
+===Foreign direct investment===
+As of 30 September 2012 foreign investors had placed a total of $177.7 billion in Kazakhstan. According to the US State Department Kazakhstan is widely considered to have the best investment climate in the region. In 2002 the country became the first sovereign in the former Soviet Union to receive an investment-grade credit rating from an international credit rating agency. Foreign direct investment (FDI) plays a more significant role in the national economy than in most other former Soviet republics.
+
+President Nazarbayev signed into law tax concessions to promote foreign direct investment which include a 10-year exemption from corporation tax an 8-year exemption from property tax and a 10-year freeze on most other taxes. Other incentives include a refund on capital investments of up to 30 percent once a production facility is in operation.
+
+Sir Suma Chakrabarti the President of the European Bank of Reconstruction and Development (EBRD) co-chaired the Kazakhstan Foreign Investors’ Council with President Nursultan Nazarbayev. In May 2014 the EBRD and government of Kazakhstan created the Partnership for Re-Energizing the Reform Process in Kazakhstan to work with international financial institutions to channel US$2.7 billion provided by the Kazakh government into important sectors of Kazakhstan’s economy. The partnership will boost investment and drive forward reforms in the country.
+
+As of May 2014 Kazakhstan attracted $190 billion in gross foreign investments since its independence in 1991 and it leads the CIS countries in terms of FDI attracted per capita. One of the factors that attract foreign direct investments is country's political stability. According to the World Bank's report Kazakhstan is among the top 40% of countries in the world that are considered the most politically stable and free of violence.
+
+Kazakhstan also received high ratings in a survey conducted by Ernst & Young in 2014. According to EY's 2014 Kazakhstan Attractiveness Survey "Investor confidence in Kazakhstan’s potential is also at an all-time high with 47.3% of respondents expecting Kazakhstan to become increasingly attractive over the next three years." The high level of economic political and social stability and Kazakhstan’s competitive corporate tax rate were the primary reasons mentioned for its attractiveness.
+
+===Bond market===
+In October 2014 Kazakhstan introduced its first overseas dollar bonds in 14 years. Kazakhstan issued $2.5 billion of 10- and 30-year bonds on 5 October 2014 in what was the nation’s first dollar-denominated overseas sale since 2000. Kazakhstan sold $1.5 billion of 10-year dollar bonds to yield 1.5 percentage points above midswaps and $1 billion of 30-year debt at 2 percentage points over midswaps. The country drew bids for $11 billion.
+
+===Economic competitiveness===
+Kazakhstan achieved its goal of entering the top 50 most competitive countries in 2013 and has maintained its position in the 2014–2015 World Economic Forum Global Competitiveness Report that was published at the beginning of September 2014. Kazakhstan is ahead of other states in the CIS in almost all of the report’s pillars of competitiveness including institutions infrastructure macroeconomic environment higher education and training goods market efficiency labour market development financial market development technological readiness market size business sophistication and innovation lagging behind only in the category of health and primary education. The Global Competitiveness Index gives a score from 1 to 7 in each of these pillars and Kazakhstan earned an overall score of 4.4.
+
+===Housing market===
+The housing market of Kazakhstan has grown since 2010. In 2013 the total housing area in Kazakhstan amounted to . The housing stock rose over the year to 32.7 million squares which is nearly an 11% increase. Between 2012 and 2013 the living area per Kazakh citizen rose from . The urban areas concentrate 62.5 percent of the country’s housing stock. 
+The UN’s recommended standard for housing stands at  per person. Kazakhstan will be able to reach the UN standards by 2019 or 2020 if in the medium term the housing growth rate remains within 7 percent.
+
+==="Nurly Zhol" economic policy===
+On 11 November 2014 President of Kazakhstan Nursultan Nazarbayev delivered an unexpected state-of-the-nation address in Astana at an extended session of the Political Council of the Nur Otan party introducing a "Nurly Zhol" (Bright Path) a new economic policy that implies massive state investment in infrastructure over the next several years. The "Nurly Zhol" policy is accepted as preventive measures needed to help steer the economy towards sustainable growth in the context of the modern global economic and geopolitical challenges such as the 25%-reduction in the oil price reciprocal sanctions between the West and Russia over Ukraine etc. The policy embraces all aspects of economic growth including finances industry and social welfare but especially esemphasises investments into the development of infrastructure and construction works. Given recent decreases in revenues from the export of raw materials funds will be used from Kazakhstan’s National Fund.
+
+===Corruption===
+In 2005 the World Bank listed Kazakhstan as a corruption hotspot on a par with Angola Bolivia Kenya Libya and Pakistan. In 2012 Kazakhstan ranked low in an index of the least corrupt countries and the World Economic Forum listed corruption as the biggest problem in doing business in the country.
+
+In 2011 Switzerland confiscated US$48 million in Kazakh assets from Swiss bank accounts as a result of a bribery investigation in the United States. US officials believed the funds represented bribes paid by American officials to Kazakh officials in exchange for oil or prospecting rights in Kazakhstan. Proceedings eventually involved US$84 million in the USA and another US$60 million in Switzerland
+
+The Federal Bureau of Investigation and the Kazakh Anti-Corruption Agency signed a Mutual Legal Assistance Treaty in February 2015.
+
+
+Title: Village Voice Media
+Relevance: 0.07070786915459458
+Content: 
+===Early history===
+The fuel for the creation of New Times was provided by opposition to United States involvement in the Vietnam War and specifically President Richard Nixon's decision in the spring of 1970 to expand the war and launch an invasion of Cambodia. The spark came from the shooting deaths of four students at Kent State University by National Guardsmen. College campuses across the country erupted into demonstrations and strikes including Arizona State University in Tempe.
+
+The state's dominant newspaper the Arizona Republic published an editorial cartoon by Pulitzer Prizewinner Reg Manning. The cartoon showed "a dirty longhaired young fellow (labeled "campus terrorist") draped in vines with a torch in one ("arson") and a knife ("deadly assault") in the other. The caption: "Hang ivy on me and call me a student" 
+
+The cartoon angered Michael Lacey the Binghamton New York-born son of a sailor turned New York City construction worker. Although his father was not college educated Lacey later recalled he had insisted that his son read the daily New York Journal-American every day a habit that bred a lifelong interest in journalism. Lacey had attended Catholic schools in Newark before moving west to attend ASU. He had already dropped out of school when he and a pair of students Frank Fiore and Karen Lofgren felt compelled to accurately report upon the campus anti-war protests which they believed were either being ignored or misrepresented by the ultra-conservative local media led by the Republic. They planned to publish their own paper which after missing its own first deadline made its debut on June 9 1970 as the Arizona Times.
+
+Rechristened New Times the paper began weekly publication in September 1970. It was neither a hard-core underground publication nor a mainstream journalistic enterprise. It began to develop a unique identity like a number of other post-underground papers around the country. Over the next two years New Times explored a variety of social and political issues both local and national. Revenues crept up and small successes became beacons of hope. In April 1972 the paper attracted J.C Penney which ran a series of full-page advertisements.
+
+In that same summer Phoenix native Jim Larkin joined the paper. Part of a blue-collar family that had deep roots in the desert metropolis Larkin had grown up reading many of the same magazines as Lacey whose attention he got by sending New Times a detailed written analysis of the city's political and media scene. A fellow college dropout who had attended school in Mexico before returning home Larkin quickly became the paper's business and sales leader injecting some practical thinking into its operations.
+
+"The paper survived because there were so many people willing to work for nothing or next to nothing because they had a common vision: all that Sixties and early-Seventies bullshit" Larkin later recalled. "The anti-war movement was valid certainly but there were certain elements of the hippie movement that the paper took advantage of. People would work for nothing because they thought they were part of a great social experiment."
+
+Larkin took a more level-headed approach in part because he had something few of the other New Times staffers did – a spouse and two children to support. After working all day at the paper "he would drive to the Nantucket Lobster Trap where he worked all night as a waiter."   In 1974 Larkin was named publisher and president of the company a move that presaged his future role as CEO of the largest group of alternative newsweeklies in America.
+
+But in the early days New Times was not an organization upon which a major newspaper group could be built. The company which had incorporated as New Times Inc. in October 1971 was internally organized as a collective mirroring the thinking of a large number of its underground predecessors. This resulted in long bouts of introspection analysis and debate.
+
+In 1972 the company launched a Tucson edition. It never gained traction for a variety of reasons including cultural differences between the two Arizona cities a lack of advertising interest and an editorial emphasis on Phoenix politics and issues.  The Tucson edition was shuttered in 1975 but not before launching the writing career of Ron Shelton a former minor-league ballplayer who would go on to write and direct the baseball classic Bull Durham.
+
+In July 1973 the company in desperate need of capital ginned up a public stock offering for Arizona residents. The offering raised $38000 with stock priced at $1 per share. The money was spent in no time leaving the company in much the same precarious financial position it was in prior to the sale – only now with more than 200 individual shareholders.
+
+By 1975 many of the paper's staffers had begun to leave the company.  Low pay and the collective nature of the organization had taken its toll. Lacey left in 1974 followed by Larkin in 1975.
+
+Larkin was replaced by Phillip Adams a shareholder and board member who was also a certified public accountant. Adams and his business partner Al Senia also owned the Casa Loma apartments in downtown Tempe where they headquartered the New Times.
+
+But the Adams era was short-lived. Complaints came from stockholders: A lack of communication from management a failure to hold any Board of Directors meetings for more than a year a loss of focus on local issues. This led the previous leaders of the company including Lacey and Larkin to devise a plan to take the newspaper back.
+
+On March 19 1977 the former leaders staged what came to be known as "the coup."  After Adams was voted out by supportive shareholders they loaded up all of New Times’ meager office equipment and supplies from the Tempe offices and transported them to a new location at the Westward Ho Hotel in downtown Phoenix.   There the modern New Times company was reborn.
+
+Litigation ensued but within a few months the new management group had prevailed. Larkin became the publisher/president and Lacey joined him as editor soon thereafter.
+
+With circulation now at a low point of 17000 the new managers knew they faced an uphill struggle. Luck was with them. Investigative Reporters & Editors ("IRE") was about to release a massive report entitled the "Arizona Project" that detailed the events surrounding the 1975 murder of Arizona Republic reporter Don Bolles. But the Republic refused to publish the report claiming it was unfair and improperly investigated. The Bolles murder was a major story in Arizona. The refusal by the Republic meant the residents of Maricopa County would have no place to read the report.
+Except that is in the newly re-formed New Times. For weeks the paper ran installments of the IRE investigation. Papers flew off the stands and the paper established a readership foothold in the Valley of the Sun.
+The IRE report was far from the last time New Times would clash with the Republic. In 1980 the daily and its publisher Duke Tully sued New Times for libel claiming its coverage of a union dispute at the Republic was inaccurate. While the suit was eventually dismissed the enmity between the two publications grew.   Ultimately Tully was forced to resign as publisher of the Republic after it was revealed that he had falsified his claims that he had served as an Air Force fighter pilot in Korea and Vietnam. In fact he had not served in Korea or Vietnam and had never been in the military at all.
+
+Fights with the Republic aside one of the first important initiatives for New Times was to increase circulation. The paper was circulated free at locations chosen to attract the young readers coveted by advertisers. The Chicago Reader had pioneered free circulation in the early 1970s and Larkin eagerly embraced the concept. By 1984 weekly circulation reached 140000.   The paper also expanded its coverage beyond news and feature stories to include extensive listings as well as music food film and arts coverage that gave it a much wider appeal.
+With Lacey's stewardship of the paper's journalistic content steaming ahead he and Larkin seeded the company with key personnel who would form a foundation for future growth. Among the most prominent were:
+
+Bob Boze Bell:  Bell began at New Times in 1978 carrying the title of visuals editor. A talented cartoonist and humorist Bell created the "Honky Tonk Sue" comic strip which along with hundreds of other two-page satirical drawings graced the pages of New Times for more than a decade. After a stint as a morning radio personality in the Phoenix area Bell purchased True West magazine in 1999 where he remains as owner and publisher.
+
+Jana Bommersbach: Bommersbach a star reporter for the Arizona Republic was hired in August 1978. In addition to her duties as managing editor of New Times she wrote a weekly column in the paper skewering many of the Phoenix area's sacred cows. In 1989 she was named editor of the paper succeeding Lacey who became executive editor for the growing group of NTI newspapers. In 1982 the Arizona Press Club awarded her the Virg Hill Newsperson of the Year Award. She later wrote the defining book on infamous Arizona trunk murderess Winnie Ruth Judd.
+
+Dewey Webb: Webb joined the paper in late 1978 from the Phoenix Gazette and quickly became renowned for his coverage of the quirky and obscure corners of life and culture in Phoenix. His writing and headline creation skills earned him numerous awards over his twenty-plus years at the paper.
+
+Hal Smith: Smith a marketing student at Arizona State University joined the sales department in 1979. He soon became advertising director and infused the sales and marketing departments with tools and strategies that drove the exponential growth of the company over the following two decades.   Under his leadership revenues grew from $699000 in 1980 to $9.9 million in 1987 an increase of more than 1300 percent.
+
+Scott Spear: Spear the former owner of a chain of record stores joined New Times in 1980 with a mandate to organize the business side of the paper and manage the rapidly growing free-circulation strategy.He later pioneered the NTI voice-personals business and created a freestanding phone company to support it. In later years he was responsible for identifying and pursuing acquisition opportunities and was primarily responsible for the creation of a fully operational national trade association for Alternative Newsweeklies (AAN)
+
+Lee Newquist: Newquist was hired directly out of college in 1982 as an assistant to Hal Smith.  He rose to become publisher of Westword in 1985 and in 1992 was named publisher of the Dallas Observer. In addition he handled the duties of executive vice president of operations for the entire company for a number of years. In 2001 he tendered an offer to NTI ownership to purchase the Fort Worth Weekly. He still owns and operates that newspaper.
+
+Christine Brennan: Brennan joined New Times as a paste-up and production person in 1980. After moving into an editing job she went on to oversee coverage in news and arts and help shape the paper's growing reputation as a purveyor of sophisticated cultural criticism. In 1989 she was named managing editor at Westword and in 1993 was named executive managing editor of New Times Media the No. 2 editorial position in the company reporting directly to Lacey. Upon the sale of NT/VVM to Voice Media Group she became the executive editor for that new company.
+
+Deborah Laake: Laake was hired as managing editor and staff writer for the paper in 1982. In 1983 she authored "Worm Boys" a short story published in New Times for which she won a special award from the Columbia Journalism School. She is most famous for her book: Secret Ceremonies: A Mormon Woman's Secret Diary of Marriage and Beyond. In 1988 she was named the Arizona Press Club's Journalist of the Year. Laake diedin 2000.
+
+Andy VanDeVoorde. Hired in 1983 directly out of college at the University of Arizona in Tucson VanDeVoorde began his career as New Times’ calendar editor but quickly moved up in the editorial department. He rose to become music editor and later was named a staff writer. In 1995 he succeeded Brennan as managing editor at Westword and in 1998 moved into corporate management as NTI's executive associate editor overseeing writer recruitment and hiring for the company. He has continued in that role at Voice Media Group.
+
+===1980s: growth and early expansion===
+With sales now growing at an ever-increasing rate and a redesign completed that converted the paper into a classic tabloid format  Larkin and Lacey began to look toward other opportunities for growth and expansion. Innovative ideas were infused into the company creating an environment that grew revenues as well as the quality and quantity of the paper's editorial content.
+The "Best Of" concept was first used in Phoenix in 1979. While a few other alternative newspapers(notably the Real Paper in Boston)had dipped their toes into this concept New Times took it to heights previously thought unreachable.
+Originally conceived as an insider's guide to the city "Best Of" was a once-a-year respite from the regular New Times practice of "eviscerating people and displaying their entrails"   The first issue totaled 40 pages (a big jump for the fledgling paper at that time). Later editions made that look like child's play. Smith's sales and marketing skills kicked in; thousands of premiums were custom-made and delivered to potential advertisers followed by sales calls enticing them to run ads in the special issue as well as in the weeks before and after its publication. Winners received plaques and winners’ certificates they could proudly display in their businesses. Advertising campaigns heralding the upcoming "Best Of" issue were purchased including local radio television and billboards.
+It became common for the entire press run of "Best Of" issues to disappear from more than 1500 distribution points within 24 hours. By June 1984 "Best of Phoenix" was being printed in two sections and totaled 288 pages.
+
+The company installed a "Best Of" issue in each publication it acquired from 1983 through 2001 and readers began to identify the phrase "Best Of" with those papers so much so that in 1996 New Times chief legal counsel Steve Watkinson proposed acquiring a trademark for the name "Best of Phoenix" and the other four papers then owned by NTI. In 1997 the United States Patent and Trademark Office granted these trademarks in Phoenix Denver Miami Dallas and Houston.  Ultimately NTI/VVM registered the "Best Of" trademark for 15 of its publications.
+
+The company successfully defended the trademark and fended off attempts by other companies to use the same term. Most notably NTI/VVM won cases in federal court against corporate giants Ticketmaster-Citysearch (then controlled by media mogul Barry Diller)  in 2000 and again in 2012 versus Yelp.
+
+Revenues grew at an ever-increasing rate throughout the decade in Phoenix and later in Denver and Miami.  Phoenix's growth in particular was exponential: Smith's sales and marketing machine transformed the small Phoenix paper of 1979 (about 32 pages on average) to more than 160 pages every week by the middle of the decade. Sales packages were constructed for and sold to advertisers small and large.The largest advertisers were offered extremely low rates in exchange for large volume commitments.  Over time the number of ads in each week's edition rather than gross revenue became the primary benchmark for measuring growth and success.
+
+In addition to the hundreds of display advertisers appearing in the papers every week a classified advertising section began to grow. And unlike the free classifieds that were a mainstay of many alternative papers a large portion of these ads were paid for.  There was strong reader response thanks to the provocative and humorous nature of many of the ads; combined with the publications’ growing circulation this created a vibrant marketplace that was a far cry from the stuffy world of daily newspaper classifieds.
+
+One of the long-standing features in the classifieds of New Times and other alternative papers was the personals section. These often-quirky ads did not allow personal contact information to be included. Readers devoured them and occasionally someone would recognize the writer and attempt to contact them. But there was no direct way for someone to respond to such an ad.
+
+That changed in the autumn of 1983 when New Times introduced a new category in the classified section that immediately followed the personal ads. It was called "Romance" and from a business perspective it was love at first sight. "Romance" ads were paid for by the word. The advertiser could write a brief description about themselves and the traits they were looking for in a prospective partner. The ad would be assigned a mailbox number. Readers could respond by mailing a written reply to New Times using that mailbox number. The sealed letters would be placed in a pigeonhole (the "mailbox") in the New Times office. Once a week all the letters in a mailbox would be gathered up and mailed to the original advertiser.
+
+A large number of alternative newspapers had similar operations. The seeds for what would later become a gigantic "personals" industry were sown in these pigeonholes.
+
+In 1983 the New Times company made its first newspaper acquisition: Westword a Denver fortnightly that had been founded by Patricia Calhoun in 1977. Retrieved December 2 2015. Calhoun graduated from Cornell in 1976 and shortly thereafter founded her first paper the Sandpiper in New Jersey. A year later she decided to close up shop and move west to Colorado where Westword was born. New Times purchased the paper from Calhoun and her partners for about $67000. Shortly thereafter the paper began publishing on a weekly basis. Decades of awards accolades and trouble-making later Calhoun remains the paper's editor today.
+
+However the early days in Denver weren’t easy ones for New Times. Westword was acquired at the beginning of the shale oil collapse which had begun exactly one year earlier with "Black Sunday " the day Exxon announced it was shutting down its Colony Project a major shale oil production venture on Colorado's Western Slope. Low oil prices prompted other energy companies to follow Exxon's lead and the Colorado economy descended into a severe recession. "See through" buildings in what was once a revitalized downtown Denver became the norm.  Thirty- and forty-story skyscrapers constructed in the optimistic heat of the boom were finished just as the collapse happened. They would stand unoccupied for years. It took a number of years for NTI to right the Westword ship; ultimately Westword became one of the twin pillars upon which NTI built its national footprint.
+
+The other pillar Phoenix New Times continued to grow throughout the 1980s. Recognizing the need for more office space the company purchased a historical building near downtown Phoenix the Booker T. Washington Elementary School.  Built in 1926 the school had been the center of the African-American community in Phoenix during decades of segregation first de jure (Arizona was a Jim Crow state) and then after 1954 de facto. NTI re-furbished the historic structure and today it remains the headquarters of the Phoenix New Times.
+
+Despite its outward success NTI had difficulty establishing banking relationships for many years. The alternative newspaper model with no paid circulation no real tangible assets and a decidedly outsiders’ viewpoint of the power structure of Phoenix was not seen in a kind light by banking interests. Finally in the summer of 1987 one banker Gary Driggs decided to take a chance on the small company and NTI was able to establish adequate borrowing and credit capacity allowing it to buy out all of the 200-plus outstanding stockholders who were left from the ill-fated 1973 public offering. Only LarkinLacey and three key managers were left with equity positions after the buyout was completed.
+
+At almost the same time NTI acquired its third newspaper – the Wave a small alternative paper that had begun publishing on Miami Beach in 1986.  The purchase price was less than $100000 but the newly acquired credit line combined with the growing profits at Phoenix New Times allowed Lacey and Larkin to invest $1.4 million to jump-start the paper.
+
+Key to NTI's Miami strategy was Lacey's hiring of Jim Mullin as editor. Mullin had formerly edited the successful San Diego Reader and was living in Central America immersing himself in Latin culture when Lacey called. Mullin went on to lead the paper's journalistic endeavors for almost twenty years and Miami New Times quickly became a journalistic and commercial success.
+
+===1990s: boom times and rapid expansion===
+In 1989 a new tool was added to NTI's revenue-generating playbook one that would increase profitability many times over and help fuel rapid expansion in the 1990s.
+
+Pay-per-call applications dated back to as early as 1971. Typically a caller would dial an advertised phone number with a 900 or 976 prefix. The caller would be billed a fixed amount per minute by the phone company. The phone company kept a portion of the revenue with the balance going to the sponsor of the call.  There were many pay-per-call services: sports scores weather forecasts even dating lines. A new twist was added to this mix in the latter part of the 1980s. It was known as Audiotext a relatively simple concept that combined a pay-per-call application with sophisticated answering machine technology ("IVR"). A person would call a 900 number and enter the voice mailbox number of the service or person for whom they wished to leave a message. Much like a voice-mail system in typical office environments the person who owned the mailbox could listen to the recorded message at a later time and respond appropriately.
+
+In 1989 the Boston Phoenix a large alternative newspaper in Boston introduced a variation of this system to the alternative press at the group's annual trade convention. It was an instant hit. Personal ads were a mainstay of almost all the papers. Now readers could respond to print ads by calling a 900 number punching in the appropriate voice mailbox number included in the print ad and leaving a message for the advertiser. The advertiser could then listen to the responses and answer those that interested him or her. In this way electronic matchmaking was born years before most people had heard of the Internet.
+
+The Phoenix proposed to handle all aspects of the operation with the individual papers responsible only for running the advertisements in print each week. The Phoenix and the newspaper would then split the net revenues after the phone company took its cut.
+
+NTI saw even greater opportunity. It purchased its own Audiotext machines and contracted directly with the phone companies eliminating the middleman and eventually even forming its own telephone company to bypass most of the charges.
+
+The results were stunning.
+
+Within two years the NTI papers were generating Audiotext revenue of more than $2 million per year almost all of which translated directly into profit. Within four years that number would rise to more than $4 million annually. From 1990 through 2001 when Internet services became dominant in the electronic dating market Audiotext generated more than $35 million in revenues for NTI.  At one point it accounted for 11 percent of the company's total revenue.
+
+By the middle of 1991 the Phoenix and Denver papers were very profitable and Miami was breaking even. Those facts coupled with the growing revenues from the Audiotext application allowed NTI to embark on a plan to rapidly expand into Top 15 markets across the country. The company enlisted a boutique investment banking firm to assist in constructing this plan.
+
+Larkin also made one more key hire: Jed Brunst joined the company in September 1991 with the title of chief financial officer. Brunst had previously worked for Coopers and Lybrand and later Allied Signal along with gaining some experience in investment banking. His directive was to professionalize the financial operations of the company and prepare it to rapidly expand its footprint via acquisitions.
+
+With expertise in banking relationships and financial transactions now in place NTI's expansion plan proceeded at a rapid pace throughout the 1990s. In late 1991 NTI purchased the Dallas Observerits most expensive acquisition to date estimated at about $3 million. Almost at the same time the smaller of the two daily papers in Dallas the Dallas Times-Herald was acquired by the Belo-owned Dallas Morning News. This allowed the News to drastically increase its advertising rates as it no longer had any significant competition in the daily newspaper market. This left a much wider gap in pricing between the daily behemoth and the Observer which was now the second-largest print publication in town. As in Miami four years earlier when the No. 2 daily ''The Miami News'' was shuttered sales opportunities were greatly increased by this pricing disparity.
+
+Lacey was busy on the editorial side as well. He hired Peter Elkind as the Observer's first editor a respected journalist who became known for co-authoring the bestseller on the Enron scandal: ''The Smartest Guys in the Room: The Amazing Rise and Scandalous Fall of Enron''. (2003) Other luminaries who were alumni of the Observer included Skip Bayless who became a nationally known sports broadcaster at ESPN and later at Fox Sports and Laura Miller who followed her stint as an Observer columnist with election to the Dallas City Council and then to mayor of Dallas.
+
+In early 1993 NTI purchased the 80000-circulation Houston Press from real estate developer Niel Morgan and his partner Chris Hearne. Once again good timing and fate intervened. In 1995 the Houston Post the smaller of the two daily papers inHouston was closed with its assets being sold to the larger Hearst-owned paper the Houston Chronicle. Much as in Dallas and Miami a  prime recipient of the orphaned advertising dollars the Chronicle could not consolidate due to its rising prices was the Press.
+
+In 1995 NTI acquired national advertising firm the Ruxton Group from the Chicago Reader. The Reader had formed Ruxton in the early 1980s to sell national advertising for a small number of the largest alternative newsweeklies. These included Phoenix New Times and Westword. Following the purchase of Ruxton NTI set out to rapidly expand the national advertising footprint of its member papers. It also aggressively pursued other alternative papers to package this market for national advertisers who coveted the desirable demographic the alternatives brought to the table. By 2002 Ruxton represented 52 major alternative publications.
+
+Also in 1995 NTI purchased SF Weekly from local publisher Scott Price. Unlike the other markets that NTI had entered the alternative newsweekly businessin the Bay Area was extremely competitive. Leading the pack was the San Francisco Bay Guardian a 30-year-old politically powerful weekly owned and operated by the bombastic Bruce Brugmann. The Guardian's main market area was the city of San Francisco but it also circulated in other areas around the Bay including Oakland Emeryville and Marin County. There were also alternative weeklies in the East BaySan Jose Santa Cruz Napa Valley Palo Alto and Marin County. The two daily papersthe morning San Francisco Chronicle and the evening San Francisco Examiner were both operated under a Joint Operating Agreement as authorized by the Congressionally enacted Newspaper Preservation Act of 1970.
+
+Lacey hired Jack Shafer former editor of the Washington City Paper as editor of the paper. Shafer repositioned the Weekly editorially differentiating it from the crowded alternative weekly field by emphasizing investigative reporting that unlike the Guardian didn’t hew to a predictable leftist line. Shafer later went on to become one of the nation's preeminent media critics penning columns for Slate.com the New York Times Magazine the Washington Post the Columbia Journalism Review and the New Republic. He is currently Politico's senior media writer.
+
+By the end of 2000 the Weekly had sales of more than $10 million and had achieved profitability. That success soon faded as the bursting of the dotcom bubble sent the Weekly and its competitors into a financial tailspin. Papers began to fail and often were sold. In the case of the Weekly and the Guardian litigation over who was at fault for the losses ensued.
+
+One year after acquiring SF Weekly NTI entered the Los Angeles market. As in San Francisco there was much competition with two competing daily papers and multiple alternative newsweeklies including the market-dominant LA Weekly. In an effort to outflank the Weekly NTI purchased two other alts the Los Angeles View and the Los Angeles Reader and combined them into one weekly publication named New Times Los Angeles. The LA venture proved unprofitable throughout its six-year existence and culminated in the sale of the paper to the parent company of LA Weekly as part of a larger transaction in 2002.
+
+In 1997 NTI did something it hadn’t done since Larkin and Lacey launched New Times in Phoenix: start a paper from scratch this time in South Florida. The company felt that the counties of Broward and Palm Beach despite being directly adjacent to Miami-Dade County were demographically and culturally different and could support a different alt-weekly with different content and advertisers. The result was New Times Broward-Palm Beach(NTBPB) and the assumption proved correct. NTBPB became profitable and remained so through most of the first decade of the 2000s.
+
+In 1998 NTI ventured into the Midwest. In the summer Cleveland Scene was acquired from its founder Richard Kabat. The paper had been founded in 1970 as a music publication focused on rock ‘n’ roll. NTI expanded coverage into areas that matched the journalistic model of its other publications: in-depth reporting and investigations event listings food and restaurant reviews and a fully flushed out classified section. New staff was hired including editor Pete Kotz whose broad-shouldered approach fit the brawling working-class ethos of the town.
+
+But Cleveland like San Francisco and Los Angeles had competitive forces in alternative publishing already in place and Scene struggled to make money. This resulted in the 2002 transaction that also involved New Times Los Angeles.
+
+In November 1998 NTI purchased the Riverfront Times of St. Louis from Ray Hartmann (editor and publisher) and his partner Mark Vittert. The RFT had grown into one of the largest alternative weeklies in the U.S. with weekly circulation of 100000 and a healthy annual profit. That success continued under NTI's ownership. As in Cleveland the company pumped money into the publication and substantially increased the size of the editorial staff. Hartmann and Vittert are still active today as co-owners of St. Louis Magazine. Hartmann is also a television personality on the locally produced PBS show "Donnybrook."
+
+In 1999 NTI put the last piece of its Midwest strategy in place by purchasing the Pitch in Kansas City Missouri. Founded in 1980 by former record store owner Hal Brody the paper like Cleveland Scene began life as a music publication. Over time Brody expanded its coverage to news food and arts and it achieved a dominant position as Kansas City's premier alternative newsweekly. At the time of its purchase circulation was 100000 and the paper operated at a profit.
+
+In 2000 NTI consolidated its holdings in the Dallas-Ft. Worth area by purchasing the Fort Worth Weekly. Longtime NTI executive Lee Newquist was named the publisher of the paper which had a circulation of 40000. Within a year Newquist struck a deal with Larkin to purchase the paper a sale that was consummated in mid-2001. Newquist remains owner and publisher of the paper today.
+
+In late 2000 NTI expanded its operations in the Bay Area by negotiating the purchase of the East Bay Express in Oakland from its owners the Chicago Reader group and local editor/publisher John Raeside. The transaction closed just months before the attacks of 9/11. At the time of the purchase the paper had a circulation of 64000.
+
+===21st century: 2001 to present===
+The late 1990s saw a huge growth spurt for the NTI publications as it did for most of the alternative newsweeklies in the country and print media in general. The end of the recession of the early 1990s coupled with the dawning of the Internet era in the middle of the decade initially brought a bountiful harvest of new revenues. Dotcom advertisers flush with venture capital money were spending liberally in the media. A portion of that went to alternative weeklies including the growing NTI chain. Ads ran in print and online as newspapers including all the NTI publications began launching websites and selling advertising on the sites. NTI launched its first website in 1995 and within a year had sites up for all of its publications.
+
+The bubble however burst in 2000. The stock market took a dive especially in tech stocks. A recession loomed. The year 2000 would prove to be the apex for NTI's revenue growth. What followed over the next decade was a slow bumpy decline. Market forces and the increasing power of the Internet slowly began to erode the strength of the alternative press.
+
+There were brief signs of life. In 2000 Alta Communications of Boston purchased a minority stake in NTI giving the company a much larger war chest to expand its operations. 
+
+Despite the best efforts there were increasing signs that the economic tides had turned. The erosion of market conditions shifted NTI's focus and resources to achieving operational efficiencies. Once known for its generous spending on editorial NTI was forced to run lean and mean.
+
+Expense cuts were made to meet the changing business environment. Publications that were not profitable were carefully scrutinized and a number were sold or shuttered between 2002 and 2011.  On Monday September 10 2001 the day before the 9/11 terror attacks plunged the American economy into an even more vicious tailspin NTI announced the first layoffs in its history.
+
+In 2002 in an effort to stanch the bleeding at its paper in Los Angeles NTI entered into an agreement with Village Voice Media (VVM) a competing chain that published a number of alternative newspapers including the Village Voice LA Weekly and the Cleveland Free Times. VVM would sell the Free Times to NTI and NTI would sell New Times LA to VVM. This resulted in the weaker money-losing paper in each of the two markets being closed by their new owners a reflection of the two companies’ belief that the L.A. and Cleveland markets could simply no longer sustain two competing alt-weeklies. After critics cried foul the U.S. Department of Justice launched an antitrust investigation. The investigation resulted in a settlement that required the companies to sell off the assets and titles of the Free Times and NTLA to new potential competitors.
+
+New owners were found for the Free Times and the assets of New Times LA but both publications ultimately failed. LA Weekly and Cleveland Scene continue to publish today.
+In a January 23 2003 letter to the editor of the Wall Street Journal Lacey responded to a commentary published in the Journal on January 10 regarding the L.A.-Cleveland agreement. He called the decision to sell New Times Los Angeles "gut-wrenching" and took exception to his and Larkin having been referred to as "wealthy monopolist bullies" in a headline that accompanied the earlier op-ed. "We weren’t just losing money in Los Angeles" Lacey wrote. "We had a failing business that threatened the health of our entire company. And companies that don’t pay attention to the bottom line cannot afford to hire good writers and publish the news."
+
+The LA-Cleveland deal was not the first time New Times and VVM would cross paths. By the middle of the decade the two chains had clearly established themselves as the big dogs in the alt-weekly world. It seemed inevitable that one or the other would need to assert its dominance and on October 24 2005 NTI announced a deal to acquire VVM creating a chain of 17 weeklies with a combined circulation of 1.8 million In addition to returning the Los Angeles market to the NTI fold via the LA Weekly the deal also added the iconic Village Voice to the company's roster along with Seattle Weekly City Pages in Minneapolis the Nashville Scene and the OC Weekly in Orange County California.
+
+In a provocative interview with New York magazine published shortly after the deal was announced Lacey made it clear he expected the Voice to take on New Times’ fighting spirit. "As a journalist if you don’t get up in the morning and say ‘fuck you’ to someone why even do it?" he asked. "Look a lot of people think I’m a prick. But at least I’m a prick you can understand. I don’t sneak up on you. You can see me coming from a long way away. Like the Russian winter."
+
+After the deal's completion New Times assumed the Village Voice name officially rebranding itself Village Voice Media Holdings but commonly referred to in the industry as VVM. What began as a tiny weekly paper in Phoenix was now the largest publishing group in the alternative newspaper category of publishing. By this time there were 125 alternative papers in the U.S. and Canada.
+
+Just prior to the VVM deal Larkin installed a new president and chief operating officer to lead the day-to-day business dealings of what was about to become a much larger company. Scott Tobias began his career with New Times in 1993 as a sales representative at Westword. He rose to become advertising director there and in 1999 was named publisher of the company's latest acquisition the Pitch in Kansas City. He returned to Denver in 2001 to become group publisher overseeing a number of the NTI publications. Tobias’ efforts forestalled the steep declines in revenue experienced in the alternative publishing world for a number of years. Ultimately though the Great Recession and the Internet took their toll.
+
+By the early 2000s the Internet particularly the website Craigslist was destroying the classified advertising business in newspapers nationwide. Classified advertising in daily newspapers as well as weekly alternatives suburban papers and community papers was all moving to the free advertising model of Craigslist and other smaller websites. In response to this phenomenon NTI launched a free classified website called backpage.com in 2004. It soon became the second largest online classified site in the U.S.
+
+The site included all the various categories found in newspaper classified sections including those that were unique to and part of the First Amendment-driven traditions of most alternative weeklies. These included personals (including adult oriented personal ads) adult services musicians and "New Age" services.
+
+On September 4 2010 in response to pressure from a variety of governmental agencies and NGO's Craigslist removed the adult services category from its U.S.  sites. Backpage.com soon became the highest profile website to include this category although a significant number of other sites (including Craigslist) continued to include adult services ads though not directly labeled as such Backpage was then targeted by the same forces that had pursued Craigslist.
+
+NTI/VVM refused to buckle to this pressure. In reaching this position VVM felt that the First Amendment rights implications coupled with the protections given to interactive computer services in section 230 of the 1996 Communications and Decency Act were paramount. Over the next five years Backpage won every legal challenge to its right to continue the adult services category on the Backpage site. Backpage also continued to increase its efforts to root out any illegal activity particularly focusing on the identification of ads that might feature underage victims of human trafficking.
+
+The battle over Backpage wasn’t NTI/VVM's only legal headache. In October 2004 SF Weekly was sued by its longtime rival Bruce Brugmann's San Francisco Bay Guardian for allegedly engaging in a predatory-pricing scheme designed to drive the Guardian out of business. The suit was filed in California state court under a Depression-era statute known as the Unfair Practices Act which makes it illegal to sell a product below cost if it can be proven that the sale was made with the intent to injure a competitor or "destroy competition." Brugmann who over the years had made no secret of his wish that Lacey and Larkin would pack their bags and leave town claimed that the Weekly was undercutting him on price and subsidizing the effort with cash infusions from Phoenix.
+
+It took four years for the suit to come before a jury in part because of extensive pre-trial motions arguing such points as whether a law that had been written to prevent Safeway from undercutting mom ‘n’ pop grocery stores on price could realistically be applied to modern-day newspaper advertisements especially when many of those ads now appeared on the Internet. When the case went to trial in 2008 the two publications savaged each other both from the witness stand and in withering daily news reports written by NTI/VVM's Andy VanDeVoorde for the Weekly and his nemesis at the Guardian Brugmann lieutenant Tim Redmond.
+
+Weekly attorneys argued that both the Weekly and the Guardian had declining revenues not because of an illegal pricing conspiracy but because of negative trends that were buffeting the entire American newspaper industry including the rise of free classified advertising websites such as Craigslist and the general flow of readers to the web. However the jury ultimately found in favor of the Guardian and awarded it $6.4 million in damages an amount that ballooned to $15.6 million after partial trebling. After a lengthy and contentious appeals process higher courts upheld the judgment which was later settled for an undisclosed amount.
+
+Not all of NTI/VVM's legal skirmishes had such a grim outcome. One in particular – the arrest of Lacey and Larkin by Maricopa County Sheriff Joe Arpaio for allegedly violating grand-jury secrecy laws harkened back to the VVM founders’ early days bedeviling the power elite of Phoenix. As fate would have it the case also provided a fitting bookend to Lacey's and Larkin's long careers with the company.
+
+After county attorney Andrew Thomas dropped the charges against them Lacey and Larkin sued Arpaio Thomas and special prosecutor Dennis Wilenchik for violation of their First Amendment Rights and abuse of power. In 2012 the 9th U.S. Circuit of Appeals ruled there had been no probable cause for the arrests and that the subpoenas were invalid because despite his claim to the contrary Wilenchik had never actually consulted a grand jury.
+
+In 2013 Maricopa County settled the case with Lacey and Larkin paying them $3.75 million. Subsequently Lacey and Larkin used the money from the settlement to establish the Frontera Foundation to assist the Hispanic community of Phoenix. Arpaio had frequently been accused by New Times and others of racial profiling and unfairly targeting Latinos for detention and arrest. The U.S.Department of Justice investigated the charges and later filed a civil rights lawsuit against Arpaio and Maricopa County. That lawsuit was settled in July 2015 but the settlement did not bring an end to Arpaio's legal troubles. In August 2016 a federal judge in Phoenix asked the U.S. Attorney's Office to file criminal contempt charges against the sheriff for failing to follow the judge's orders in a separate racial-profiling case.
+
+Not long before their court victory over Arpaio Lacey's and Larkin's four-decade adventure in alternative journalism came to an end. In 2012 the VVM owners sold the remaining papers and their affiliated web properties to Tobias and a group of other longtime company executives. Executives for the spinoff holding company Denver-based Voice Media Group ("VMG") raised "some money from private investors" in order to separate the newspapers.
+
+In December 2014  NTI/VVM which had held onto Backpage.com after selling the papers to VMG sold its interest in Backpage to a Dutch holding company.
+
+
+
+===Newspaper properties timeline===
+
+
+
+
+
+VILLAGE VOICE MEDIA HOLDINGS fka NEW TIMES MEDIA HOLDINGS fka NEW TIMES INC.
+Name of Newspaper
+
+Date of acquisition or start up 
+
+ Date of Sale 
+
+ Purchaser
+
+
+
+Phoenix New Times 
+
+ 1970 
+
+ 2012 
+
+Voice Media Group (VMG)
+
+
+
+Westword (Denver) 
+
+ 1983 
+
+ 2012 
+
+ VMG
+
+
+
+Miami New Times 
+
+ 1987 
+
+ 2012 
+
+ VMG
+
+
+
+Dallas Observer 
+
+ 1991 
+
+ 2012 
+
+ VMG
+
+
+
+Houston Press 
+
+ 1993 
+
+ 2012 
+
+ VMG
+
+
+
+SF Weekly 
+
+ 1995 
+
+ 2013 
+
+ San Francisco Media Company/Black Press
+
+
+
+Los Angeles Reader 
+
+ 1996 
+
+ 1996 
+
+ merged into New Times LA
+
+
+
+LA View 
+
+ 1996 
+
+ 1996 
+
+ merged into New Times LA
+
+
+
+New Times LA 
+
+ 1996 
+
+ 2002 
+
+ Village Voice Media Inc.
+
+
+
+New Times Broward-Palm Beach 
+
+ 1997 
+
+ 2012 
+
+ VMG
+
+
+
+Cleveland Scene 
+
+ 1998 
+
+ 2008 
+
+ Times-Shamrock Communications
+
+
+
+Riverfront Times (St. Louis) 
+
+ 1998 
+
+ 2012 
+
+ VMG
+
+
+
+The Pitch (Kansas City) 
+
+ 1999 
+
+ 2011 
+
+ SouthComm Communications
+
+
+
+Fort Worth Weekly 
+
+ 2000 
+
+ 2001 
+
+ Lee Newquist
+
+
+
+East Bay Express (SF Bay area) 
+
+ 2001 
+
+ 2007 
+
+ Stephen Buel/Hal Brody
+
+
+
+Nashville Scene 
+
+ 2006 
+
+ 2009 
+
+ SouthComm Communications
+
+
+
+Village Voice (New York) 
+
+ 2006 
+
+ 2012 
+
+ VMG
+
+
+
+LA Weekly 
+
+ 2006 
+
+ 2012 
+
+ VMG
+
+
+
+OC Weekly (Orange County CA) 
+
+ 2006 
+
+ 2012 
+
+ VMG
+
+
+
+City Pages (Minneapolis) 
+
+ 2006 
+
+ 2012 
+
+ VMG
+
+
+
+Seattle Weekly 
+
+ 2006 
+
+ 2013 
+
+ Sound Publishing/Black Press
+
+
+
+
+
+
